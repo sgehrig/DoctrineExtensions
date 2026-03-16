@@ -23,6 +23,7 @@ a release.
 
 ### Fixed
 - Blameable: (Re-) Added integer in allowed types list for Blameable fields (#2006)
+- Tree: Fixed inserting multiple root nodes in one flush operation with the nested set strategy in certain circumstances (#2582)
 
 ## [3.22.0] - 2025-12-13
 ### Added
